@@ -12,13 +12,13 @@ $(document).ready(function() {
     var totalScore;
   
     //  create variable array for each crystal div id
-    var crystalValue = [
-      $("#quartz"),
-      $("#garnet"),
-      $("#brookite"),
-      $("#benitoite")
-    ];
   
+    var crystalValue = [
+      $("#crystal1"),
+      $("#crystal2"),
+      $("#crystal3"),
+      $("#crystal4")
+    ];
     // FUNCTIONS
     // ======================================================================================================
   
